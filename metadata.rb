@@ -1,9 +1,9 @@
-name 'chef-fluentd'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures chef-fluentd'
-long_description 'Installs/Configures chef-fluentd'
+name 'fluentd'
+maintainer 'Jalal Ahmad'
+maintainer_email 'jalal.ahmad@gmail.com'
+license 'LGPL'
+description 'Installs/Configures fluentd'
+long_description 'Installs/Configures fluentd'
 version '0.1.0'
 
 # If you upload to Supermarket you should set this so your cookbook
